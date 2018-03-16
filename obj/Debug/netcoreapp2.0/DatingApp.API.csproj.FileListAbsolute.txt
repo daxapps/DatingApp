@@ -1,0 +1,10 @@
+/Users/jcrawford/Desktop/AspNet/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.deps.json
+/Users/jcrawford/Desktop/AspNet/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.runtimeconfig.json
+/Users/jcrawford/Desktop/AspNet/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.runtimeconfig.dev.json
+/Users/jcrawford/Desktop/AspNet/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.dll
+/Users/jcrawford/Desktop/AspNet/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.pdb
+/Users/jcrawford/Desktop/AspNet/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/jcrawford/Desktop/AspNet/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.AssemblyInfoInputs.cache
+/Users/jcrawford/Desktop/AspNet/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.AssemblyInfo.cs
+/Users/jcrawford/Desktop/AspNet/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.dll
+/Users/jcrawford/Desktop/AspNet/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.pdb
